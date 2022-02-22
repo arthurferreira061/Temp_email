@@ -1,4 +1,4 @@
-# TempMail BOT
+# TempMail 
 BOT PHP para obter email temporário utilizando o [10 Minute Mail](https://10minutemail.net)
 
 &nbsp;
@@ -17,9 +17,6 @@ O BOT atualiza o tempo do email, retornando para 10 minutos
 
 **string: getActivationCode(string: $site)**\
 O BOT busca o código de ativação do site passado por passado por parâmetro (necessário ser a última mensagem recebida)\
-Sites disponíveis no momento:
-- Twitter
 
 &nbsp;
-## Licenças de Terceiros:
-[**Simple Html Dom Parser for PHP**](https://github.com/voku/simple_html_dom) (MIT): Responsável por tranformar texto em HTML DOM para melhor manipulação no PHP
+## Licenças de Terceiros
